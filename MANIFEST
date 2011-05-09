@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/HTML-Walk.t
+lib/HTML/Walk.pm
